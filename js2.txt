@@ -161,8 +161,8 @@
         <div class="profile-pic">
           <img src="mei.jpg" alt="My Photo">
         </div>
-        <h1>Welcome Home </h1>
-        <p>A soft pink, elegant interface with smooth animations and gentle tones.</p>
+        <h1>Hi, I am Meigan!</h1>
+        <p>This is where you can find my socials.</p>
       </div>
 
       <div class="tab-content" id="socials">
@@ -196,4 +196,5 @@
   </script>
 </body>
 </html>
+
 
